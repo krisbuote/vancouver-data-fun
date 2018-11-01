@@ -6,5 +6,7 @@ Overall, the average salary was roughly equal across departments; the engineerin
 
 [Data source can be found here.](https://data.vancouver.ca/datacatalogue/employeeRemunerationExpensesOver75k.htm)
 
+(https://github.com/krisbuote/vancouver-data-fun/blob/master/images/Income_Distribution.png)
 
+(https://github.com/krisbuote/vancouver-data-fun/blob/master/images/Average_Salary_Comparison.png)
 
